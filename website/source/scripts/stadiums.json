@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Emirates (Arsenal)",
+    "latitude": "51.555",
+    "longitude": "-0.108611"
+  },
+  {
+    "name": "Villa Park (Aston Villa)",
+    "latitude": "52.509167",
+    "longitude": "-1.884722"
+  },
+  {
+    "name": "Vitality (Bournemouth)",
+    "latitude": "50.735278",
+    "longitude": "-1.838333"
+  },
+  {
+    "name": "Community Stadium (Brentford)",
+    "latitude": "51.490825",
+    "longitude": "-0.2887"
+  },
+  {
+    "name": "Amex Stadium (Brighton)",
+    "latitude": "50.861822",
+    "longitude": "-0.083278"
+  },
+  {
+    "name": "Stamford Bridge (Chelsea)",
+    "latitude": "51.481667",
+    "longitude": "-0.191111"
+  },
+  {
+    "name": "Selhurst Park (Crystal Palace)",
+    "latitude": "51.398333",
+    "longitude": "-0.085556"
+  },
+  {
+    "name": "Goodison Park (Everton)",
+    "latitude": "53.438889",
+    "longitude": "-2.966389"
+  },
+  {
+    "name": "Craven Cottage (Fulham)",
+    "latitude": "51.475",
+    "longitude": "-0.221667"
+  },
+  {
+    "name": "King Power (Leicester)",
+    "latitude": "52.620278",
+    "longitude": "-1.142222"
+  },
+  {
+    "name": "Elland Road (Leeds Utd)",
+    "latitude": "53.777778",
+    "longitude": "-1.572222"
+  },
+  {
+    "name": "Anfield (Liverpool)",
+    "latitude": "53.430833",
+    "longitude": "-2.960833"
+  },
+  {
+    "name": "Emptyhad (Man City)",
+    "latitude": "53.483056",
+    "longitude": "-2.200278"
+  },
+  {
+    "name": "Old Trafford (Man Utd)",
+    "latitude": "53.463056",
+    "longitude": "-2.291389"
+  },
+  {
+    "name": "St. James Park (Newcastle)",
+    "latitude": "54.975556",
+    "longitude": "-1.621667"
+  },
+  {
+    "name": "The City Ground (Forest)",
+    "latitude": "52.94",
+    "longitude": "-1.132778"
+  },
+  {
+    "name": "St. Mary's (Southampton)",
+    "latitude": "50.905833",
+    "longitude": "-1.391111"
+  },
+  {
+    "name": "Spurs",
+    "latitude": "51.604722",
+    "longitude": "-0.066389"
+  },
+  {
+    "name": "London Stadium (West Ham)",
+    "latitude": "51.538611",
+    "longitude": "-0.016389"
+  },
+  {
+    "name": "Molineux (Wolves)",
+    "latitude": "52.590278",
+    "longitude": "-2.130278"
+  }
+]
